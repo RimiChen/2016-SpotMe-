@@ -140,3 +140,13 @@ decide the wander mode of bots.
 
 
 
+-------------------
+Authors
+-------------------
+@RimiChen
+@deepakiam
+@gauravaradhye
+@WYYinGH
+
+
+
